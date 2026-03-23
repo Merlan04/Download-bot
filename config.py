@@ -69,3 +69,6 @@ def extract_url(text: str) -> Optional[str]:
     """Extract the first URL from text."""
     match = URL_PATTERN.search(text)
     return match.group(0) if match else None
+    
+COOKIES_ENABLED = True
+COOKIES_FILE = 'cookies.txt'
