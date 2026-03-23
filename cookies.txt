@@ -1,0 +1,4 @@
+# Netscape HTTP Cookie File
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	XXXXX
+.tiktok.com	TRUE	/	TRUE	0	tt_webid	XXXXX
+.tiktok.com	TRUE	/	TRUE	0	__tea_cache_tokens_	XXXXX
